@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    width : 816px;
+    border: 1px black
+}
+.div-style{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(69, 62, 62);
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+
